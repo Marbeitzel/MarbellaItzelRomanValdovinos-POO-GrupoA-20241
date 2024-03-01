@@ -16,6 +16,3 @@
 ## • El precio y el stock no pueden ser negativos.
 ## • El nombre no puede ser nulo.
 ## • La cantidad a reducir del stock debe ser menor o igual al stock actual.
-
-
-## Profe se subio un archivo de mi amiga, a la rama de la vez que hicimos la clonación para que lo ignore please Es uno que se llama Villa Diaz Ana
